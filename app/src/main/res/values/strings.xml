@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Voice Recorder</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="record">Record</string>
+    <string name="_0_00">0:00</string>
+    <string name="title">Title</string>
+    <string name="record_list">Record List</string>
+
+    <string-array name="title">
+        <item>VOICE_1802017201241.3gpp</item>
+        <item>VOICE_1802017201321.3gpp</item>
+        <item>VOICE_1802017201532.3gpp</item>
+        <item>VOICE_1802017201537.3gpp</item>
+        <item>VOICE_1802017201741.3gpp</item>
+        <item>VOICE_1802017202012.3gpp</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>0:00</item>
+        <item>0:00</item>
+        <item>0:00</item>
+        <item>0:00</item>
+        <item>0:00</item>
+        <item>0:00</item>
+    </string-array>
+
+</resources>
+
+
